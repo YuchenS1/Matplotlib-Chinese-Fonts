@@ -1,7 +1,14 @@
 # Matplotlib-Chinese-Fonts
 Easy way to fix Chinese character display issues in matplotlib
 
+________________
+
 *This is only tested on macOS Sierra.*
+*fontList.json should not be downloaded and used to replace similar local files on your computer, because many settings in fontList.json is specific to my computer.*
+*fontList.json is only uploaded to be used as a reference when editing your own.*
+
+________________
+
 
 1. Locate 'fonts' folder in /usr/local/lib/python3.6/site-packages/matplotlib/mpl-data/fonts/
 2. You should see three folders: 'afm', 'pdfcorefonts', 'ttf'.
