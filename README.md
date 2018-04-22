@@ -59,4 +59,8 @@ ________________
     
 10. Change defaultFamily {'ttf'} to your Chinese font name
 11. Change defaultFont {'ttf'} to the path that leads to your Chinese font .ttf file
+12. Open a new .py file and type this after importing matplotlib:
+
+    matplotlib.rc('font', family='SimHei')
+
 
